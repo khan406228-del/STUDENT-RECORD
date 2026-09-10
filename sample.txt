@@ -1,4 +1,0 @@
-Hello, C++ File Handling!
-This is line 2.
-This is line 3.
-This line was appended to the file.
